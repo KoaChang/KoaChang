@@ -1,9 +1,10 @@
-<h1>Hi, I'm Koa! <br/><a href="https://github.com/MalamaPono">Programmer</a>, <a href="Linked in link">Software Developer</a><h1/>
+<h1>Hi, I'm Koa! <br/><a href="https://github.com/MalamaPono">Programmer</a>, <a href="Linked in link">Software Developer</a></h1>
 
-**`Digital Craftsman (Developer/Student/Creator)`**
+<p>**`Digital Craftsman (Developer/Student/Creator)`**
 
 I'm an student of computer science who specializes in Machine Learning and AI. I am self-taught and learned everything I know from youtube videos, online specializations, courses through online platforms like Coursera. My dream is to one day make my own technology company that will change the world. 
 ---
+</p>
 
 ### 🧰 Languages and Tools
 
@@ -18,6 +19,8 @@ I'm an student of computer science who specializes in Machine Learning and AI. I
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
+---
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
