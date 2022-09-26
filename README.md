@@ -20,6 +20,7 @@ I'm an student of computer science who specializes in Machine Learning and AI. I
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br>
+<br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Machine Learning/AI</b>
