@@ -1,4 +1,4 @@
-<h1>Hi, I'm Koa! <br/><a href="https://github.com/MalamaPono">Programmer</a>, <a href="Linked in link">Software Developer</a></h1>
+<h1>Hi, I'm Koa!<a href="https://github.com/MalamaPono">Programmer</a>, <a href="Linked in link">Software Developer</a></h1>
 
 <p>**`Digital Craftsman (Developer/Student/Creator)`**
 
