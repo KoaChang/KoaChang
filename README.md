@@ -1,54 +1,58 @@
 <h1>Hi, I'm Koa! <br/><a href="https://github.com/MalamaPono">Programmer</a>, <a href="Linked in link">Software Developer</a>, 
 
+**`Digital Craftsman (Developer/Student/Creator)`**
+
+I'm an student of computer science who specializes in Machine Learning and AI. I am self-taught and learned everything I know from youtube videos, online specializations, courses through online platforms like Coursera. My dream is to one day make my own technology company that will change the world. 
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 <h2>👨‍💻 Software Development Projects:</h2>
+  
+- <b>Machine Learning/AI</b>
+  - [Machine Learning Stanford](https://github.com/MalamaPono/Machine-Learning-Standford)
+  - [Deep Learning Specialization (Andrew Ng)](https://github.com/MalamaPono/Deep-Learning-Specialization-Andrew-Ng)
+  - [Open CV Projects (Youtube Videos)](https://github.com/MalamaPono/Open-CV)
+ - <b>Automation</b>
+  - [Automation Courses (Youtube courses)](https://github.com/MalamaPono/Automation-Courses)
+  - [Selenium Course (Youtube course)](https://github.com/MalamaPono/SeleniumCourse)
+  - [Google IT Automation with Python Certification](https://github.com/MalamaPono/Google-IT-Automation)
+  - [WhatsApp Automation (Youtube)](https://github.com/MalamaPono/WhatsApp-Automation)
+- <b>Data Science</b>
+  - [IBM Data Science Specialization](https://github.com/MalamaPono/IBM-Data-Science-Specialization)
+  - [IBM Advanced Data Science Specialization](https://github.com/MalamaPono/IBM-Advanced-Data-Science-Specialization)
+  - [Michigan Data Science Specialization](https://github.com/MalamaPono/Michigan-Data-Science-Specialization)
+  - [Pandas Projects (Youtube)](https://github.com/MalamaPono/Pandas-Projecs)
+- <b>Python Projects</b>
+  - [PyCharmProjects (Personal Projects Completed in PyCharm)](https://github.com/MalamaPono/PyCharmProjects)
+  - [JupyterProjects (Personal Projects Completed in Jupyter Notebooks)](https://github.com/MalamaPono/Jupyter-Projects)
+- <b>Front End Web App (React, Javascript, HTML, CSS)</b>
+  - [Worksheet Resource Website](link to worksheet wizz project in github)
+- <b>Data Structures and Algorithms</b>
+  - [University of Colorado Boulder Data Structures and Algorithms in Python](https://github.com/MalamaPono/Data-Structures-and-Algorithms-Specialization-University-of-Colorado)
+  - [AP Computer Science A Java](https://github.com/MalamaPono/AP-CSA)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. I took the AP Computer Science A course which wasn't even a class offered at my shcool during my sophmore year. I struggled to learn this class on my own as I was introduced to the various online learning sources like Youtube and Coursera. I eventually became more and more confident at self-studying and scored a 5 on the AP exam. Ever since then, my journey in the computer science world has taken off. I began learning everything about Data Science and Machine Learning in Python. I have taken countless Specializations on Coursera and have completed numerous personal projects to showcase my skills. My dream is to use my technical experience to eventually found a technology company that will change the world forever.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[website]: link
+[linkedin]: link
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+add other social media here
