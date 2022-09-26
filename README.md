@@ -22,7 +22,7 @@ I'm an student of computer science who specializes in Machine Learning and AI. I
 
 # 
 
-
+<br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
   
