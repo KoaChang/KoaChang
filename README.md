@@ -30,7 +30,7 @@ I'm an student of computer science who specializes in Machine Learning and AI. I
   - [Machine Learning Stanford](https://github.com/MalamaPono/Machine-Learning-Standford)
   - [Deep Learning Specialization (Andrew Ng)](https://github.com/MalamaPono/Deep-Learning-Specialization-Andrew-Ng)
   - [Open CV Projects (Youtube Videos)](https://github.com/MalamaPono/Open-CV)
- - <b>Automation</b>
+- <b>Automation</b>
   - [Automation Courses (Youtube courses)](https://github.com/MalamaPono/Automation-Courses)
   - [Selenium Course (Youtube course)](https://github.com/MalamaPono/SeleniumCourse)
   - [Google IT Automation with Python Certification](https://github.com/MalamaPono/Google-IT-Automation)
