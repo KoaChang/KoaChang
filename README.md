@@ -43,7 +43,7 @@ I'm an student of computer science who specializes in Machine Learning and AI. I
 - <b>Front End Web App (React, Javascript, HTML, CSS)</b>
   - [Worksheet Resource Website](link to worksheet wizz project in github)
 - <b>Data Structures and Algorithms</b>
-  - [University of Colorado Boulder Data Structures and Algorithms in Python](https://github.com/MalamaPono/Data-Structures-and-Algorithms-Specialization-University-of-Colorado)
+  - [University of Colorado Boulder Data Structures and Algorithms in Python](https://github.com/MalamaPono/Data-Structures-and-Algorithms-SpecializationUniversity-of-Colorado)
   - [AP Computer Science A Java](https://github.com/MalamaPono/AP-CSA)
 
 #
