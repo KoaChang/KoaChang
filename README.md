@@ -51,12 +51,6 @@ I'm an student of computer science who specializes in Machine Learning and AI. M
 
 <details>
  <summary><h3>👨‍💻 Koa's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. I took the AP Computer Science A course which wasn't even a class offered at my shcool during my sophmore year. I struggled to learn this class on my own as I was introduced to the various online learning sources like Youtube and Coursera. I eventually became more and more confident at self-studying and scored a 5 on the AP exam. Ever since then, my journey in the computer science world has taken off. I began learning everything about Data Science and Machine Learning in Python. I have taken countless Specializations on Coursera and have completed numerous personal projects to showcase my skills. My dream is to use my technical experience to eventually found a technology company that will change the world forever.
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. I took the AP Computer Science A course which wasn't even a class offered at my shcool during my sophmore year. I struggled to learn this class on my own as I was introduced to the various online learning sources like Youtube and Coursera. I eventually became more and more confident at self-studying and scored a 5 on the AP exam. Ever since then, my journey in the computer science world has taken off. I began learning everything about Data Science and Machine Learning in Python. I have taken countless Specializations on Coursera and have completed numerous personal projects to showcase my skills. My dream is to use my technical experience to eventually found a technology company.
 
-[website]: link
-[linkedin]: link
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-
-add other social media here
+[linkedin]: https://www.linkedin.com/in/koa-chang-9837a9271/
