@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an student of computer science who specializes in Machine Learning and AI. My dream is to one day make my own technology company that will change the world. 
+I'm an student of computer science at Stanford University who specializes in Machine Learning and AI. I love to build, create, develop, and continously learn from all my experiences.
 
 ---
 
@@ -27,7 +27,6 @@ I'm an student of computer science who specializes in Machine Learning and AI. M
 - <b>Machine Learning/AI</b>
   - [Machine Learning Stanford](https://github.com/MalamaPono/Machine-Learning-Standford)
   - [Deep Learning Specialization (Andrew Ng)](https://github.com/MalamaPono/Deep-Learning-Specialization-Andrew-Ng)
-  - [Open CV Projects (Youtube Videos)](https://github.com/MalamaPono/Open-CV)
 - <b>Automation</b>
   - [Automation Courses (Youtube courses)](https://github.com/MalamaPono/Automation-Courses)
   - [Selenium Course (Youtube course)](https://github.com/MalamaPono/SeleniumCourse)
@@ -38,11 +37,10 @@ I'm an student of computer science who specializes in Machine Learning and AI. M
   - [IBM Advanced Data Science Specialization](https://github.com/MalamaPono/IBM-Advanced-Data-Science-Specialization)
   - [Michigan Data Science Specialization](https://github.com/MalamaPono/Michigan-Data-Science-Specialization)
   - [Pandas Projects (Youtube)](https://github.com/MalamaPono/Pandas-Projecs)
-- <b>Python Projects</b>
-  - [PyCharmProjects (Personal Projects Completed in PyCharm)](https://github.com/MalamaPono/PyCharmProjects)
-  - [JupyterProjects (Personal Projects Completed in Jupyter Notebooks)](https://github.com/MalamaPono/Jupyter-Projects)
 - <b>Front End Web App (React, Javascript, HTML, CSS)</b>
-  - [Worksheet Resource Website](link to worksheet wizz project in github)
+  - [Worksheet Resource Website](link to worksheetwizz)
+- <b>Full Stack Web App (Python, Flask, HTML, CSS, JavaScript, Machine Learning and AI)</b>
+  - [KumuBot Hawaiian Language AI Website](link to kumubot)
 - <b>Data Structures and Algorithms</b>
   - [University of Colorado Boulder Data Structures and Algorithms in Python](https://github.com/MalamaPono/Data-Structures-and-AlgorithmsSpecializationUniversity-of-Colorado)
   - [AP Computer Science A Java](https://github.com/MalamaPono/AP-CSA)
