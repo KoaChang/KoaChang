@@ -38,9 +38,9 @@ I'm an student of computer science at Stanford University who specializes in Mac
   - [Michigan Data Science Specialization](https://github.com/MalamaPono/Michigan-Data-Science-Specialization)
   - [Pandas Projects (Youtube)](https://github.com/MalamaPono/Pandas-Projecs)
 - <b>Front End Web App (React, Javascript, HTML, CSS)</b>
-  - [Worksheet Resource Website](link to worksheetwizz)
+  - [Worksheet Resource Website](https://worksheetwizz.com)
 - <b>Full Stack Web App (Python, Flask, HTML, CSS, JavaScript, Machine Learning and AI)</b>
-  - [KumuBot Hawaiian Language AI Website](link to kumubot)
+  - [KumuBot Hawaiian Language AI Website](https://kumubot.com)
 - <b>Data Structures and Algorithms</b>
   - [University of Colorado Boulder Data Structures and Algorithms in Python](https://github.com/MalamaPono/Data-Structures-and-AlgorithmsSpecializationUniversity-of-Colorado)
   - [AP Computer Science A Java](https://github.com/MalamaPono/AP-CSA)
