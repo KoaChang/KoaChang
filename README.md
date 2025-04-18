@@ -1,8 +1,8 @@
-# Hi, I'm Koa!<a href="https://github.com/MalamaPono"> Programmer</a>, <a href="Linked in link">Software Developer</a>
+# Hi, I'm Koa!<a href="https://github.com/KoaChang"> Programmer</a>, <a href="Linked in link">Software Developer</a>
 
 **`Digital Craftsman (Developer/Builder)`**
 
-I'm an student of computer science at Stanford University who specializes in Machine Learning and AI. I love to build, create, develop, and continously learn from all my experiences.
+I'm a student of computer science at Stanford University who specializes in Machine Learning and AI. I love to build, create, develop, and continously learn from all my experiences.
 
 ---
 
