@@ -1,4 +1,4 @@
-# Hi, I'm Koa!<a href="https://github.com/KoaChang"> Programmer</a>, <a href="https://www.linkedin.com/in/koachang"> Software Developer</a>
+# Hi, I'm Koa!<a href="https://www.linkedin.com/in/koachang"> Programmer</a>, <a href="https://www.linkedin.com/in/koachang"> Software Developer</a>
 
 **`Digital Craftsman (Developer/Builder)`**
 
