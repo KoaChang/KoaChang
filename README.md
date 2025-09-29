@@ -26,7 +26,8 @@ I'm a student of computer science at Stanford University who specializes in Mach
 
 - <b>Machine Learning/AI</b>
   - [Machine Learning Stanford](https://github.com/MalamaPono/Machine-Learning-Standford)
-  - [Deep Learning Specialization (Andrew Ng)](https://github.com/MalamaPono/Deep-Learning-Specialization-Andrew-Ng)
+  - [Deep Learning Specialization (Andrew Ng)](https://github.com/KoaChang/Andrew-Ng-Deep-Learning-Specialization)
+  - [Cyberdrive (Self Driving Video Model)](https://github.com/KoaChang/CyberDrive)
 - <b>Automation</b>
   - [Google IT Automation with Python Certification](https://github.com/MalamaPono/Google-IT-Automation)
 - <b>Data Science</b>
