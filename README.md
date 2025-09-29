@@ -41,6 +41,4 @@ I'm a student of computer science at Stanford University who specializes in Mach
 - <b>Data Structures and Algorithms</b>
   - [University of Colorado Boulder Data Structures and Algorithms in Python](https://github.com/MalamaPono/Data-Structures-and-AlgorithmsSpecializationUniversity-of-Colorado)
 
-#
-
-[linkedin]: https://www.linkedin.com/in/koa-chang-9837a9271/
+[linkedin]: https://www.linkedin.com/in/koachang
